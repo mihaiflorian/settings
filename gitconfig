@@ -1,0 +1,18 @@
+[user]
+        name = Mihai Florian
+        email = mflorian@gmail.com
+[core]
+	editor = vim
+[alias]
+	lgd = log --graph --abbrev-commit --decorate
+[log]
+	abbrevCommit = true
+	decorate = true
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+[push]
+	default = current
+
+
